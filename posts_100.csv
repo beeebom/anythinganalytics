@@ -1,0 +1,101 @@
+influencer_id,platform,date,URL,caption,reach,likes,comments 
+1,Instagram,2024-06-01,url1,Great product!,5000,400,40
+2,YouTube,2024-06-02,url2,Love this!,8000,600,60
+3,Instagram,2024-06-03,url3,Must try,6000,500,50
+4,Twitter,2024-06-04,url4,Amazing,4000,300,30
+5,YouTube,2024-06-05,url5,Superb,7000,550,55
+6,Instagram,2024-06-06,url6,Fantastic,5500,420,42
+7,YouTube,2024-06-07,url7,Incredible,8200,610,61
+8,Instagram,2024-06-08,url8,Awesome,6100,510,51
+9,Twitter,2024-06-09,url9,Wow!,4100,310,31
+10,YouTube,2024-06-10,url10,Excellent,7100,560,56
+11,Instagram,2024-06-11,url11,Great results!,5200,410,41
+12,YouTube,2024-06-12,url12,Highly recommend,8300,620,62
+13,Instagram,2024-06-13,url13,So good!,6200,520,52
+14,Twitter,2024-06-14,url14,Very nice,4200,320,32
+15,YouTube,2024-06-15,url15,Perfect,7200,570,57
+16,Instagram,2024-06-16,url16,Top quality,5300,430,43
+17,YouTube,2024-06-17,url17,The best!,8400,630,63
+18,Instagram,2024-06-18,url18,Impressive,6300,530,53
+19,Twitter,2024-06-19,url19,So cool,4300,330,33
+20,YouTube,2024-06-20,url20,Super cool,7300,580,58
+21,Instagram,2024-06-21,url21,Great taste,5400,440,44
+22,YouTube,2024-06-22,url22,Very effective,8500,640,64
+23,Instagram,2024-06-23,url23,It works!,6400,540,54
+24,Twitter,2024-06-24,url24,So easy,4400,340,34
+25,YouTube,2024-06-25,url25,Very happy,7400,590,59
+26,Instagram,2024-06-26,url26,Superb results,5500,450,45
+27,YouTube,2024-06-27,url27,Love the results,8600,650,65
+28,Instagram,2024-06-28,url28,So happy,6500,550,55
+29,Twitter,2024-06-29,url29,Very useful,4500,350,35
+30,YouTube,2024-06-30,url30,Great value,7500,600,60
+31,Instagram,2024-07-01,url31,Great for fitness,5600,460,46
+32,YouTube,2024-07-02,url32,My favorite,8700,660,66
+33,Instagram,2024-07-03,url33,So easy to use,6600,560,56
+34,Twitter,2024-07-04,url34,Very simple,4600,360,36
+35,YouTube,2024-07-05,url35,Super easy,7600,610,61
+36,Instagram,2024-07-06,url36,Great for health,5700,470,47
+37,YouTube,2024-07-07,url37,Very tasty,8800,670,67
+38,Instagram,2024-07-08,url38,So delicious,6700,570,57
+39,Twitter,2024-07-09,url39,Very quick,4700,370,37
+40,YouTube,2024-07-10,url40,Super quick,7700,620,62
+41,Instagram,2024-07-11,url41,Great for energy,5800,480,48
+42,YouTube,2024-07-12,url42,Very energizing,8900,680,68
+43,Instagram,2024-07-13,url43,So energizing,6800,580,58
+44,Twitter,2024-07-14,url44,Very motivating,4800,380,38
+45,YouTube,2024-07-15,url45,Super motivating,7800,630,63
+46,Instagram,2024-07-16,url46,Great for recovery,5900,490,49
+47,YouTube,2024-07-17,url47,Very helpful,9000,690,69
+48,Instagram,2024-07-18,url48,So helpful,6900,590,59
+49,Twitter,2024-07-19,url49,Very supportive,4900,390,39
+50,YouTube,2024-07-20,url50,Super supportive,7900,640,64
+51,Instagram,2024-07-21,url51,Great for strength,6000,500,50
+52,YouTube,2024-07-22,url52,Very strong,9100,700,70
+53,Instagram,2024-07-23,url53,So strong,7000,600,60
+54,Twitter,2024-07-24,url54,Very powerful,5000,400,40
+55,YouTube,2024-07-25,url55,Super powerful,8000,650,65
+56,Instagram,2024-07-26,url56,Great for muscle,6100,510,51
+57,YouTube,2024-07-27,url57,Very muscular,9200,710,71
+58,Instagram,2024-07-28,url58,So muscular,7100,610,61
+59,Twitter,2024-07-29,url59,Very fit,5100,410,41
+60,YouTube,2024-07-30,url60,Super fit,8100,660,66
+61,Instagram,2024-07-31,url61,Great for wellness,6200,520,52
+62,YouTube,2024-08-01,url62,Very well,9300,720,72
+63,Instagram,2024-08-02,url63,So well,7200,620,62
+64,Twitter,2024-08-03,url64,Very healthy,5200,420,42
+65,YouTube,2024-08-04,url65,Super healthy,8200,670,67
+66,Instagram,2024-08-05,url66,Great for nutrition,6300,530,53
+67,YouTube,2024-08-06,url67,Very nutritious,9400,730,73
+68,Instagram,2024-08-07,url68,So nutritious,7300,630,63
+69,Twitter,2024-08-08,url69,Very balanced,5300,430,43
+70,YouTube,2024-08-09,url70,Super balanced,8300,680,68
+71,Instagram,2024-08-10,url71,Great for diet,6400,540,54
+72,YouTube,2024-08-11,url72,Very diet-friendly,9500,740,74
+73,Instagram,2024-08-12,url73,So diet-friendly,7400,640,64
+74,Twitter,2024-08-13,url74,Very light,5400,440,44
+75,YouTube,2024-08-14,url75,Super light,8400,690,69
+76,Instagram,2024-08-15,url76,Great for weight loss,6500,550,55
+77,YouTube,2024-08-16,url77,Very effective for weight loss,9600,750,75
+78,Instagram,2024-08-17,url78,So effective for weight loss,7500,650,65
+79,Twitter,2024-08-18,url79,Very easy to lose weight,5500,450,45
+80,YouTube,2024-08-19,url80,Super easy to lose weight,8500,700,70
+81,Instagram,2024-08-20,url81,Great for gains,6600,560,56
+82,YouTube,2024-08-21,url82,Very gainful,9700,760,76
+83,Instagram,2024-08-22,url83,So gainful,7600,660,66
+84,Twitter,2024-08-23,url84,Very productive,5600,460,46
+85,YouTube,2024-08-24,url85,Super productive,8600,710,71
+86,Instagram,2024-08-25,url86,Great for stamina,6700,570,57
+87,YouTube,2024-08-26,url87,Very enduring,9800,770,77
+88,Instagram,2024-08-27,url88,So enduring,7700,670,67
+89,Twitter,2024-08-28,url89,Very lasting,5700,470,47
+90,YouTube,2024-08-29,url90,Super lasting,8700,720,72
+91,Instagram,2024-08-30,url91,Great for endurance,6800,580,58
+92,YouTube,2024-08-31,url92,Very enduring,9900,780,78
+93,Instagram,2024-09-01,url93,So enduring,7800,680,68
+94,Twitter,2024-09-02,url94,Very persistent,5800,480,48
+95,YouTube,2024-09-03,url95,Super persistent,8800,730,73
+96,Instagram,2024-09-04,url96,Great for persistence,6900,590,59
+97,YouTube,2024-09-05,url97,Very persistent,10000,790,79
+98,Instagram,2024-09-06,url98,So persistent,7900,690,69
+99,Twitter,2024-09-07,url99,Very determined,5900,490,49
+100,YouTube,2024-09-08,url100,Super determined,8900,740,74 
